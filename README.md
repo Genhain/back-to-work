@@ -2,7 +2,12 @@
 
 Hi Ben. Find below a list of tasks which will give you the necessary skills in order to get back into a work enviroment.
 
-For each task please fork the repo, create a branch (E.g. task/one), code, create a pull request. I'll then review the code and asked for any changes.
+For each task please fork the repo, create a branch (E.g. task/one), code, create a pull request. I'll then review the code and asked for any changes. Please create a seperate folder for each of the tasks and have the project/tests inside of that folder.
+
+E.g. 
+task1
+task2
+task3
 
 ## Tasks
 
