@@ -11,10 +11,10 @@ task3
 
 ## Tasks
 
-### Recreate NSNotificationCentre
+### Task1: Recreate NSNotificationCentre
 Please recreate the NSNotificationCentre and NSNotification functionality. You should write tests which show the class is functioning how it should
 
-### Creating a signup screen
+###Task 2: Creating a signup screen
 You should create a signup screen with the following components: 
 
 #### UI
@@ -29,7 +29,7 @@ You should create a signup screen with the following components:
 
 The user should enter all of the details, pressing enter moves them to the next entery and clicking anywhere out of the boxes will remove the keyboard from view. When save is clicked we should make a 'user' object and prepare the data in json format ready to be transfured to the server
 
-### Creating a background downloader
+###Task 3: Creating a background downloader
 Create a set of classes which will allow the background downloading of HTML files from a given URL.
 
 #### UI
@@ -48,7 +48,7 @@ Create a set of classes which will allow the background downloading of HTML file
 * User can click 'cancel' -> UITableView will say 'Cancelled' and the download will be cancelled
 * Download will finished and say 'completed', Cell can then be clicked and will show a new ViewController with the HTML inside a UITextView
 
-### Creating a 'countdown clock'
+###Task 4: Creating a 'countdown clock'
 You need to make a countdown clock where the user enters a time in hours/minutes and they will be 'notified' once the count down is reached even if the user has closed down the application.
 
 No UI/Flow is given for this task
