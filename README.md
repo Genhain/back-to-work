@@ -6,5 +6,7 @@ For each task please fork the repo, create a branch (E.g. task/one), code, creat
 
 ## Tasks
 
-* Recreate NSNotificationCentre + NSNotification 
-* Create a simple Signup/Login UI screen (Images will be provided)
+### Recreate NSNotificationCentre
+Please recreate the NSNotificationCentre and NSNotification functionality. You should write tests which show the class is functioning how it should
+
+## Create a simple Signup/Login UI
